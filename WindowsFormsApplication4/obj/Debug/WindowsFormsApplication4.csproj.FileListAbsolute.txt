@@ -1,0 +1,49 @@
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+\\csd\home\students\groups\flow147m\pristupa.pv\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Тая\Desktop\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba9\Taya\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\931801.SimulationModeling-main\Laba9\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\Laba8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\laba8\931902.basargina.anastasia.lab8.3\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
